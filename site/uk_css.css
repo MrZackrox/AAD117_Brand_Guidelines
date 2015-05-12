@@ -1,0 +1,748 @@
+/* This Resets All Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body
+
+{
+ background-color: white;
+ font-weight: 400;
+ line-height: 1.60;
+}
+
+
+/*style for lettering*/
+
+
+    h1,h2,h3,p
+        {
+         color: black;
+         font-weight: inherit;
+
+        }
+
+    h1
+        {
+         text-transform: uppercase;  
+        }
+
+    h1
+        {
+         font-family: 'Oswald', sans-serif; 
+         font-size: 3.157em;
+         font-weight: 600;
+         letter-spacing: 10px;
+        }
+
+    h2
+        {
+         font-family: 'Oswald', sans-serif;  
+         font-size: 2.369em;
+         text-transform: uppercase;
+        }
+
+    h3 
+        {
+         font-family: 'Oswald', sans-serif;
+         font-size: 1.777em;
+         font-weight: 600;
+         margin-top: 2%;
+         text-transform: uppercase;
+        }
+
+    li
+        {
+         font-family: 'Lato', sans-serif;
+        }
+
+    p
+        {
+         font-family: 'Roboto Slab', serif;
+         font-size: 1.188em;
+         margin-top: 2%;
+         line-height: 2em;
+        }
+
+
+/*Style for splash section*/
+
+    #logo
+    {
+     padding-top: 13%;
+     margin-bottom: 19%;
+     margin-left: 25%;
+    }
+
+    #arrow
+    {
+     margin-top: 0%;
+     margin-left: 46.5%;
+    }
+
+
+/*Style for overview section*/
+
+    #overview
+    {
+     padding-left: 41%;
+     margin-top: 0%;
+     padding-top: 5%;
+    }
+
+    #overview_list
+    {
+     margin-top: 7%;
+     font-size: 1.5em;
+     line-height: 250%;
+     margin-left: 15%;
+     padding-bottom: 10%;
+    }
+
+    #overview_p
+    {
+     margin-top: -31%;
+     line-height: 250%;
+     margin-left: 41%;
+     padding-bottom: 10%;
+     margin-right: 9%;
+    }
+
+    #arrow2
+    {
+     margin-top: 0%;
+     margin-left: 46.5%;
+    }
+
+
+/*Style for all logo meaning section*/
+
+    #logo_2
+    {
+     padding-left: 41%;
+     padding-top: 5%
+    }
+
+    #logo_mean
+    {
+      margin-left: 6%;
+      margin-top: 17%;
+    }
+
+    #logo_mean_p
+    {
+     margin-top: -12%;
+     line-height: 250%;
+     margin-left: 41%;
+     padding-bottom: 18%;
+     margin-right: 9%;   
+    }
+
+   
+
+#arrow_3
+    {
+     margin-top: -7.5%;
+     margin-left: 46.5%;
+    }
+
+
+/*Style for logos1 and logo_p*/
+
+     #logo_3
+    {
+     padding-left: 41%;
+     padding-top: 5%;
+        
+    }
+
+
+    #logos1
+    {
+     margin-top: -21%;
+     margin-left: 6.9%;
+     padding-bottom: 0.5%;   
+    }
+
+    #logo_p
+    {
+     margin-top: 6%;
+     line-height: 250%;
+     margin-left: 41%;
+     padding-bottom: 10%;
+     margin-right: 9%;
+    }
+
+    #logo_p2
+    {
+     margin-top: -23%;
+     line-height: 250%;
+     margin-left: 41%;
+     margin-right: 9%;
+    }
+
+    #logo_p3
+    {
+     margin-top: 5%;
+     line-height: 250%;
+     margin-left: 41%;
+     margin-right: 9%;
+    }
+
+
+    #logo_p4
+    {
+     margin-top: 3%;
+     line-height: 250%;
+     margin-left: 41%;
+     padding-bottom: 10%;
+     margin-right: 9%;
+    }
+
+#arrow_4
+    {
+     margin-top: -8%;
+     margin-left: 46.5%;
+    }
+
+
+/*Style for logos1 and logo_p*/
+
+     #logo_6
+    {
+     padding-left: 41%;
+     padding-top: 5%;
+        
+    }
+
+
+    #print_size
+    {
+     margin-top: -21%;
+     margin-left: 6.9%;
+     padding-bottom: 0.5%;   
+    }
+
+    #logo_print_size_p
+    {
+     margin-top: 6%;
+     line-height: 250%;
+     margin-left: 41%;
+     padding-bottom: 10%;
+     margin-right: 9%;
+    }
+
+    #logo_print_size_p2
+    {
+     margin-top: -17%;
+     line-height: 250%;
+     margin-left: 41%;
+     margin-right: 9%;
+    }
+
+    #logo_print_size_p3
+    {
+     margin-top: 4%;
+     line-height: 250%;
+     margin-left: 41%;
+     margin-right: 9%;
+    }
+
+#arrow_41
+    {
+     margin-top: 8%;
+     margin-left: 46.5%;
+    }
+
+
+
+/*Style for logo tagline*/
+
+    #logo_4
+    {
+     padding-left: 41%;
+     padding-top: 5%;  
+    }
+
+
+    #logo_tag
+    {
+     margin-top: 6%;
+     margin-left: 5%;
+     padding-bottom: 10%;
+    }
+
+    #logo_tagp
+    {
+     margin-top: -30%;
+     line-height: 250%;
+     margin-left: 41%;
+     margin-right: 9%;
+    }
+
+#arrow_5
+    {
+     margin-top: 17%;
+     margin-left: 46.5%;
+    }
+
+/*Style for logo what not to do*/
+
+    #logo_5
+    {
+     padding-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #logo_what
+    {
+      margin-top: 7%;
+     margin-left: 5%;
+     padding-bottom: 10%;
+    }
+
+    #logo_whatp
+    {
+     margin-top: -39%;
+     line-height: 250%;
+     margin-left: 41%;
+     margin-right: 9%;
+    }
+
+    #logo_whatp2
+    {
+     margin-top: 3%;
+     line-height: 250%;
+     margin-left: 41%;
+     margin-right: 9%;
+    }
+
+    #logo_whatp3
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+    
+     #logo_whatp4
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 7%;
+    }
+
+#arrow_6
+    {
+     margin-top: 5%;
+     margin-left: 46.5%;
+    }
+
+/*Style for fonts section*/
+
+    #fonts
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #font_example
+    {
+      margin-top: 10%;
+     margin-left: 5%;
+     padding-bottom: 10%;
+    }
+
+    #font_p
+    {
+     margin-left: 41%;
+     margin-top: -30%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #font_p2
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_7
+    {
+     margin-top: 9%;
+     margin-left: 46.5%;
+    }
+
+/*Style for colour section*/
+
+    #colour
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #colour_example
+    {
+      margin-top: 10%;
+     margin-left: 5%;
+     padding-bottom: 10%;
+    }
+
+    #colour_p
+    {
+     margin-left: 41%;
+     margin-top: -32%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #colour_p2
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+  #colour_p3
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_8
+    {
+     margin-top: 9%;
+     margin-left: 46.5%;
+    }
+
+/*Style for idea colour section*/
+
+    #colour_2
+    {
+     margin-left: 41%;
+     padding-top: 5%; 
+    }
+
+    #colour_idea_example
+    {
+      margin-top: 14%;
+     margin-left: 4%;
+     padding-bottom: 10%;
+    }
+
+    #colour_pi
+    {
+     margin-left: 41%;
+     margin-top: -30%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #colour_pi2
+    {
+     margin-left: 41%;
+     margin-top: 5%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_9
+    {
+     margin-top: 7.5%;
+     margin-left: 46.5%;
+    }
+/*Style for icon section*/
+
+    #icon
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #icon_set
+    {
+      margin-top: 6%;
+     margin-left: 5%;
+     padding-bottom: 10%;
+    }
+
+    #icon_p
+    {
+     margin-left: 41%;
+     margin-top: -41%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #icon_p2
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #icon_p3
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_10
+    {
+     margin-top: 2.7%;
+     margin-left: 46.5%;
+    }
+
+/*Style for icon version section*/
+
+    #icon_2
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #icon_set_2
+    {
+     margin-top: 5%;
+     margin-left: 5%;
+     padding-bottom: 10%;
+    }
+
+    #icon_p_nl
+    {
+     margin-left: 41%;
+     margin-top: -34%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #icon_p2_nl
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_11
+    {
+     margin-top: 10%;
+     margin-left: 46.5%;
+    }
+
+/*Style for merchandise section*/
+
+    #merch
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #merch_bookmark
+    {
+     margin-top: 9%;
+     margin-left: 6%;
+     padding-bottom: 10%;
+    }
+
+    #merc_p_bm
+    {
+     margin-left: 41%;
+     margin-top: -30%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #merc_p_bm2
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #merc_p_bm3
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_12
+    {
+     margin-top: 7%;
+     margin-left: 46.5%;
+    }
+
+/*Style for merchandise section*/
+
+    #merch_note
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #merch_note_pad
+    {
+     margin-top: 1%;
+     margin-left: 5%;
+    }
+
+    #merc_p_np
+    {
+     margin-left: 41%;
+     margin-top: -33%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #merc_p_np2
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #merc_p_np3
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_13
+    {
+     margin-top: 7%;
+     margin-left: 46.5%;
+    }
+
+/*Style for merchandise note page section*/
+
+    #merch_note_page
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #merch_note_pages
+    {
+     margin-top: 1%;
+     margin-left: 5%;
+    }
+
+    #merch_page_np
+    {
+     margin-left: 41%;
+     margin-top: -33%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #merch_page_np2
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #merch_page_np3
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_14
+    {
+     margin-top: 9%;
+     margin-left: 46.5%;
+    }
+
+/*Style for tone section*/
+
+    #tone_section
+    {
+     margin-left: 41%;
+     padding-top: 5%;  
+    }
+
+    #tone_example
+    {
+     margin-top: 8%;
+     margin-left: 5%;
+    }
+
+    #tone_p
+    {
+     margin-left: 41%;
+     margin-top: -20%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #tone_p2
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+    #tone_p3
+    {
+     margin-left: 41%;
+     margin-top: 3%;
+     line-height: 250%;
+     margin-right: 9%;
+    }
+
+#arrow_15
+    {
+     margin-top: 10.5%;
+     margin-left: 46.5%;
+    }
+
+/*Style for goodbye section*/
+
+    #goodbye
+    {
+     margin-left: 30%;
+     padding-top: 5%;   
+    }
+
+    #logo_goodbye
+    {
+     margin-top: 10%;
+     margin-left: 24%;
+    }
+
+    #goodbye_p
+    {
+     margin-left: 29%;
+     margin-right: 31%;
+     line-height: 250%;
+     margin-top: 5%;
+     
+    }
+
+#arrow_17
+    {
+     margin-top: 4%;
+     margin-left: 46.5%;
+    }
